@@ -34,7 +34,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/beerio.git
+   git clone https://github.com/sjpmax/beerio.git
    cd beerio
    ```
 
