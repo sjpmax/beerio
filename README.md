@@ -1,6 +1,3 @@
-Got it! Here's the updated README with **Beerio** as the app name:
-
----
 
 # Beerio: The Beer Bang-for-Buck Finder
 
@@ -93,6 +90,3 @@ Want to improve Beerio? Contributions are welcome! Feel free to:
 
 This project is licensed under the MIT License.
 
----
-
-If you need me to tweak this further, let me know! Cheers to smart beer decisions with Beerio! 🍻📱
